@@ -1,0 +1,3 @@
+A LISP (Lost in Stupid Parenthesis) implementation of a mini sudoku (4x4), where the user defines the number of given numbers for the sudoku table. The program finds a solution to that table, using dept-first search (sol-sudoku-prof) or breadth-first search (sol-sudoku-anch).
+
+Sorry about the doc in spanish (and the lack of documentation), it is an old project.
